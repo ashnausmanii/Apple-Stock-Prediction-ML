@@ -32,7 +32,7 @@ Predicting Apple (AAPL) stock closing prices using Support Vector Regression (SV
 
 1. Clone this repository
 2. Install requirements: `pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn`
-3. Open `ApplStock_Prediction.ipynb` in Jupyter Notebook
+3. Open `AppleStock_Prediction.ipynb` in Jupyter Notebook
 4. Run all cells
 
 ## 👩‍💻 Author
